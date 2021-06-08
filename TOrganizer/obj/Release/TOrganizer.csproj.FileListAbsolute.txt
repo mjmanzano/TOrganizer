@@ -1,0 +1,9 @@
+D:\Projects\Programming\C#\Image Temp Organizer\TOrganizer\TOrganizer\bin\Release\TOrganizer.exe.config
+D:\Projects\Programming\C#\Image Temp Organizer\TOrganizer\TOrganizer\bin\Release\TOrganizer.exe
+D:\Projects\Programming\C#\Image Temp Organizer\TOrganizer\TOrganizer\bin\Release\TOrganizer.pdb
+D:\Projects\Programming\C#\Image Temp Organizer\TOrganizer\TOrganizer\obj\Release\TOrganizer.Form1.resources
+D:\Projects\Programming\C#\Image Temp Organizer\TOrganizer\TOrganizer\obj\Release\TOrganizer.Properties.Resources.resources
+D:\Projects\Programming\C#\Image Temp Organizer\TOrganizer\TOrganizer\obj\Release\TOrganizer.csproj.GenerateResource.cache
+D:\Projects\Programming\C#\Image Temp Organizer\TOrganizer\TOrganizer\obj\Release\TOrganizer.csproj.CoreCompileInputs.cache
+D:\Projects\Programming\C#\Image Temp Organizer\TOrganizer\TOrganizer\obj\Release\TOrganizer.exe
+D:\Projects\Programming\C#\Image Temp Organizer\TOrganizer\TOrganizer\obj\Release\TOrganizer.pdb
