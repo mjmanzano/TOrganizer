@@ -1,4 +1,0 @@
-EXIFTOOLPATH : D:\Projects\Programming\C#\Image Temp Organizer\Exiftool\exiftool-12.26\exiftool.exe
-IMGPATH : D:\Projects\Programming\C#\Image Temp Organizer\TestData
-SORT_CHECKED : 0
-TEMP_SUFFIX : 1
